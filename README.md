@@ -26,6 +26,7 @@ Cybersecurity professional focused on SOC operations, threat detection, and malw
 ## 📜 Certifications
 
 [![CompTIA Security+](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/go/F0u0033OW4upJMhoxeWTGg)
+
 [![Microsoft SC-200](https://images.credly.com/size/110x110/images/f9584e10-bd48-4d71-8d5e-cbc4b4d56c67/image.png)](https://learn.microsoft.com/api/credentials/share/en-ca/SolomonJames-0854/CDDE6ED9AEE5271?sharingId=994121003D1FCBC)
 
 ---
