@@ -9,12 +9,12 @@ Cybersecurity professional focused on SOC operations, threat detection, and malw
 - <b>Data Structures & Algorithms Practice (TryHackMe)</b>
   - [PicoSecure Threat Simulation](https://github.com/Jaysolex/PicoSecure-Threat-Simulation)
 - <b>Detection Engineering</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jaysolex/Failed-RDP-GeoData)
-  - [Active Directory Security Hardening Script](https://github.com/jaysolex/AD-Security-Hardening)
-  - [PowerShell Malware Detection Script](https://github.com/jaysolex/PS-Malware-Detection)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+  - [Active Directory Security Hardening Script]()
+  - [PowerShell Malware Detection Script]()
 - <b>Blue Team / SOC Operations</b>
-  - [SOC Operations Workflow and Automation](https://github.com/jaysolex/SOC-Automation-Workflow)
-  - [File Integrity Monitoring (FIM) Setup](https://github.com/jaysolex/File-Integrity-Monitoring)
+  - [SOC Operations Workflow and Automation]()
+  - [File Integrity Monitoring (FIM) Setup]()
 
 <h2>📺 Popular YouTube Videos</h2>
 
