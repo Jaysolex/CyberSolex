@@ -30,7 +30,7 @@ Cybersecurity professional focused on SOC operations, threat detection, and malw
 [![Microsoft SC-200](https://images.credly.com/size/110x110/images/f9584e10-bd48-4d71-8d5e-cbc4b4d56c67/image.png)](https://learn.microsoft.com/api/credentials/share/en-ca/SolomonJames-0854/CDDE6ED9AEE5271?sharingId=994121003D1FCBC)
 
 
-[!Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/GQCT8OM2UZYN)
+[Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/GQCT8OM2UZYN)
 
 ---
 
