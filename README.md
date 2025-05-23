@@ -52,5 +52,5 @@ Cybersecurity professional focused on SOC operations, threat detection, and malw
 - <b>Data Structures & Algorithms Practice (TryHackMe)</b>
   - [PicoSecure Threat Simulation](https://github.com/Jaysolex/PicoSecure-Threat-Simulation)
  
-  - [Cybersecurity Vulnerability Assessment](https://github.com/Jaysolex/PicoSecure-Threat-Simulation)
+  - [Cybersecurity Vulnerability Assessment](https://github.com/Jaysolex/vulnerabilty-scan)
 
