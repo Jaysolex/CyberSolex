@@ -3,25 +3,6 @@
 Cybersecurity professional focused on SOC operations, threat detection, and malware analysis. I specialize in detection engineering, log analysis, and building defenses using MITRE ATT&CK and Pyramid of Pain principles. I’m actively developing real-world skills through hands-on labs like TryHackMe and Microsoft’s security certifications.
 
 ---
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Data Structures & Algorithms Practice (TryHackMe)</b>
-  - [PicoSecure Threat Simulation](https://github.com/Jaysolex/PicoSecure-Threat-Simulation)
-- <b>Detection Engineering</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
-  - [Active Directory Security Hardening Script]()
-  - [PowerShell Malware Detection Script]()
-- <b>Blue Team / SOC Operations</b>
-  - [SOC Operations Workflow and Automation]()
-  - [File Integrity Monitoring (FIM) Setup]()
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-  
----
 # 🎓 Certifications – Solomon James
 
 ## 🔐 CompTIA Security+
@@ -59,7 +40,15 @@ Cybersecurity professional focused on SOC operations, threat detection, and malw
 - 🖥️ Windows Security & PowerShell Forensics  
 - 🔍 Detection Engineering & Blue Team Projects  
 
----
+--------
 
 📫 **Email:** officialjaysolex100@gmail.com  
 🔗 **LinkedIn:** [Solomon-James-Cyber](https://www.linkedin.com/in/Solomon-James-Cyber)
+
+----------
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures & Algorithms Practice (TryHackMe)</b>
+  - [PicoSecure Threat Simulation](https://github.com/Jaysolex/PicoSecure-Threat-Simulation)
+
